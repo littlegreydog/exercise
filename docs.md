@@ -1,3 +1,3 @@
-This documentation describes how to use the Adella Treat Dispenser 3000.
+This documentation describes how to use the Adella Treat Dispenser 3000 Plus.
 
-Note that this product is totally safe to use for children, cats, or illiterates.
+Note that this product is totally safe to use for children, cats, squirrels, or illiterates.
